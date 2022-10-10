@@ -1,0 +1,17 @@
+
+
+.image{
+    height: 90px;
+    width: 95px;
+    border-radius: 10px;
+    margin: 0% 10%;
+}
+.order-div{
+display: grid;
+grid-template-columns: 2fr 4fr 2fr;
+text-align:center;
+border: 2px solid lime;
+padding: 20px 5px;
+margin: 20px 5px;
+border-radius: 5px;
+}

@@ -1,0 +1,77 @@
+[
+    {
+      "_id": "623853b2614ad5aba311fdd1",
+      "price": 1299,
+      "picture": "https://cdn.mos.cms.futurecdn.net/Ks6KtG9fx9soz6ddidT9iY-970-80.jpg.webp",
+      "name": "Apple iMac 24-inch",
+      "specialFeatures": "1080p webcam, great speakers" ,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b2578e9e6ad1ae0dd5",
+      "picture": "https://cdn.mos.cms.futurecdn.net/yfNtZ8Ax5LzFACdDHRgcfm-970-80.jpg.webp",
+      "name": "Alienware Aurora R13",
+      "specialFeatures": "1080p FaceTime camera, Nano-texture glass (optional)" ,
+      "price": 2400,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b21fb149d2ee7b76c7",
+      "picture": "https://cdn.mos.cms.futurecdn.net/3ik4iUhr8M2AZnox5kwoxa-970-80.jpg.webp",
+      "name": "Apple iMac 27-inch",
+      "specialFeatures": "1080p FaceTime camera, Nano-texture glass (optional)" ,
+      "price": 1720,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b2e91c8de578c9245e",
+      "picture": "https://cdn.mos.cms.futurecdn.net/HZGiVga7ox9uCBRMpD5FrP-970-80.jpg.webp",
+      "name": "Acer Predator Orion 3000",
+      "specialFeatures": "1080p FaceTime camera, Nano-texture glass (optional)" ,
+      "price": 1720,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b2239582e48409ccc6",
+      "price": 1204,
+      "picture": "https://cdn.mos.cms.futurecdn.net/hnGqKZ8Kyx7GuNgHEyXHKY-970-80.jpg.webp",
+      "name": "Apple Mac mini with M1",
+     "specialFeatures" : "Compact size, 2 Thunderbolt 3 ports" ,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b2cdda0d5bc294f791",
+      "index": 5,
+      "picture": "https://cdn.mos.cms.futurecdn.net/jhP4BMGcNKcsGkFxCcruiE-970-80.jpg.webp",
+      "name": "Microsoft Surface Studio 2",
+      "specialFeatures": "Pulls down display for drawing, Surface Dial support ", 
+      "price": 3821,
+      "quantity" : 0 
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d44a",
+      "price": 41,
+      "picture": "https://cdn.mos.cms.futurecdn.net/jhP4BMGcNKcsGkFxCcruiE-970-80.jpg.webp",
+      "name": "Microsoft Surface Studio 2",
+   "specialFeatures" :" Pulls down display for drawing, Surface Dial support ",
+      "quantity" : 0 
+    } , 
+
+    {
+      "_id": "623853b2736120120044a",
+      "price": 1501,
+      "picture": "https://cdn.mos.cms.futurecdn.net/DbcLJPCpe4ses58hcecotK-970-80.jpg.webp",
+      "name": "MSI MEG Trident X",
+   "specialFeatures" :" RGB lightingt ",
+      "quantity" : 0 
+    } , 
+
+    {
+      "_id": "623853b210245004eb8d44a",
+      "price": 1202,
+      "picture": "https://cdn.mos.cms.futurecdn.net/b75Q68Gb65uDNS6EpSnNN9-970-80.jpg.webp",
+      "name": "Raspberry Pi 4 Model B review",
+   "specialFeatures" :" Pulls down display for drawing, Surface Dial support ",
+      "quantity" : 0 
+    } 
+  ]
