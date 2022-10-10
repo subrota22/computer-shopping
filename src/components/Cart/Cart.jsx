@@ -16,7 +16,7 @@ const Cart = ({cart , children}) => {
             <Main totalQuantity={totalQuantity} grandTotal={grandTotal}> </Main>
         <p> Total {totalQuantity} products selected </p>
             <p> Price ${parseInt(price).toFixed(2)} </p>
-            <p>Tax${parseInt(tax).toFixed(2)}</p>
+            <p>Tax ${parseInt(tax).toFixed(2)}</p>
             <p>Grand totoal ${parseInt(grandTotal).toFixed(2)}</p>
             <br />
             {children}

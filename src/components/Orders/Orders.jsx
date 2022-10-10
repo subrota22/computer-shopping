@@ -15,7 +15,7 @@ const Orders = ({cartData , removeItem}) => {
             <p>Special Features : {specialFeatures} </p>
 </div>
 <div className="delete-div">
-    <button className='btn btn-primary' onClick={() => removeItem(cartData)}>  Delete</button>
+    <button className='btn deleteButton' onClick={() => removeItem(cartData)}>  Delete</button>
 </div>
         </div>
     );
