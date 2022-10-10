@@ -11,7 +11,7 @@ const Orders = ({cartData , removeItem}) => {
 <div className="text-div">
            <p> {name} </p>
             <p>Quantity : {quantity} </p>
-            <p>Price : {price} </p>
+            <p>Price : ${price*quantity} </p>
             <p>Special Features : {specialFeatures} </p>
 </div>
 <div className="delete-div">
